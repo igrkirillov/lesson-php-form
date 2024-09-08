@@ -1,3 +1,3 @@
-# PHP Form
+# PHP index
 
-[form.php](./form.php)
+[index.php](./index.php)
